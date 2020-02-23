@@ -1,5 +1,4 @@
 package pl.sda;
-
 public class ZadTalbInt {
     int table[];
     public static int findMax(int[] table) {
