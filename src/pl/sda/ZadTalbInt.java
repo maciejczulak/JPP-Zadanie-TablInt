@@ -15,8 +15,8 @@ public class ZadTalbInt {
 
     public static void main(String[] args) {
         int[] tableInt = {4, 67, 1, 21, 3, 8, 47, 92, 5};
-        System.out.println(findMax(tableInt));
-        System.out.println(findMin(tableInt));
+        System.out.println("Max value of table: "+findMax(tableInt));
+        System.out.println("Min value of table: "+findMin(tableInt));
     }}
 
 
